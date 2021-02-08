@@ -1,0 +1,10 @@
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\bin\Debug\MovieCircle.exe.config
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\bin\Debug\MovieCircle.exe
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\bin\Debug\MovieCircle.pdb
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\obj\Debug\MovieCircle.csprojAssemblyReference.cache
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\obj\Debug\MovieCircle.FormBallGame.resources
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\obj\Debug\MovieCircle.Properties.Resources.resources
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\obj\Debug\MovieCircle.csproj.GenerateResource.cache
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\obj\Debug\MovieCircle.csproj.CoreCompileInputs.cache
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\obj\Debug\MovieCircle.exe
+D:\Clone\CSharpTraining\MovieCircle\MovieCircle\obj\Debug\MovieCircle.pdb
