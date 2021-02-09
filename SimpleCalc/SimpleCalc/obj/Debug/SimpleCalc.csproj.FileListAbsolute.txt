@@ -1,0 +1,10 @@
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csprojAssemblyReference.cache
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
+C:\Users\ryuorei\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Result.resources
