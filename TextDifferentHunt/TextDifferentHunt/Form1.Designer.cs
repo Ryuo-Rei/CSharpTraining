@@ -56,10 +56,10 @@ namespace TextDifferentHunt
             // mainPictureBox
             // 
             this.mainPictureBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.mainPictureBox.Location = new System.Drawing.Point(394, 12);
+            this.mainPictureBox.Location = new System.Drawing.Point(345, 59);
             this.mainPictureBox.Name = "mainPictureBox";
             this.mainPictureBox.Size = new System.Drawing.Size(100, 94);
-            this.mainPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.mainPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.mainPictureBox.TabIndex = 0;
             this.mainPictureBox.TabStop = false;
             this.mainPictureBox.Click += new System.EventHandler(this.pictureBox1_Click);
@@ -67,7 +67,7 @@ namespace TextDifferentHunt
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(27, 94);
+            this.label1.Location = new System.Drawing.Point(29, 21);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(58, 12);
             this.label1.TabIndex = 1;
@@ -75,7 +75,7 @@ namespace TextDifferentHunt
             // 
             // textPictureWidth
             // 
-            this.textPictureWidth.Location = new System.Drawing.Point(62, 121);
+            this.textPictureWidth.Location = new System.Drawing.Point(62, 42);
             this.textPictureWidth.Name = "textPictureWidth";
             this.textPictureWidth.Size = new System.Drawing.Size(100, 19);
             this.textPictureWidth.TabIndex = 2;
@@ -83,7 +83,7 @@ namespace TextDifferentHunt
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(42, 124);
+            this.label2.Location = new System.Drawing.Point(42, 45);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(14, 12);
             this.label2.TabIndex = 3;
@@ -92,7 +92,7 @@ namespace TextDifferentHunt
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(186, 124);
+            this.label3.Location = new System.Drawing.Point(186, 45);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(14, 12);
             this.label3.TabIndex = 4;
@@ -100,14 +100,14 @@ namespace TextDifferentHunt
             // 
             // textPictureHeight
             // 
-            this.textPictureHeight.Location = new System.Drawing.Point(206, 121);
+            this.textPictureHeight.Location = new System.Drawing.Point(206, 42);
             this.textPictureHeight.Name = "textPictureHeight";
             this.textPictureHeight.Size = new System.Drawing.Size(100, 19);
             this.textPictureHeight.TabIndex = 5;
             // 
             // buttonSave
             // 
-            this.buttonSave.Location = new System.Drawing.Point(419, 119);
+            this.buttonSave.Location = new System.Drawing.Point(370, 169);
             this.buttonSave.Name = "buttonSave";
             this.buttonSave.Size = new System.Drawing.Size(75, 23);
             this.buttonSave.TabIndex = 6;
@@ -118,7 +118,7 @@ namespace TextDifferentHunt
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(29, 181);
+            this.label4.Location = new System.Drawing.Point(29, 87);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(41, 12);
             this.label4.TabIndex = 7;
@@ -126,7 +126,7 @@ namespace TextDifferentHunt
             // 
             // textString
             // 
-            this.textString.Location = new System.Drawing.Point(44, 215);
+            this.textString.Location = new System.Drawing.Point(44, 111);
             this.textString.Multiline = true;
             this.textString.Name = "textString";
             this.textString.Size = new System.Drawing.Size(262, 42);
@@ -135,16 +135,16 @@ namespace TextDifferentHunt
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(42, 283);
+            this.label5.Location = new System.Drawing.Point(29, 180);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(106, 12);
+            this.label5.Size = new System.Drawing.Size(108, 12);
             this.label5.TabIndex = 9;
-            this.label5.Text = "フォントサイズ, フォント";
+            this.label5.Text = "フォント、フォントサイズ";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(42, 353);
+            this.label6.Location = new System.Drawing.Point(29, 260);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(41, 12);
             this.label6.TabIndex = 11;
@@ -153,7 +153,7 @@ namespace TextDifferentHunt
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(161, 353);
+            this.label7.Location = new System.Drawing.Point(186, 260);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(41, 12);
             this.label7.TabIndex = 12;
@@ -162,7 +162,7 @@ namespace TextDifferentHunt
             // labelFont
             // 
             this.labelFont.AutoSize = true;
-            this.labelFont.Location = new System.Drawing.Point(73, 309);
+            this.labelFont.Location = new System.Drawing.Point(70, 211);
             this.labelFont.Name = "labelFont";
             this.labelFont.Size = new System.Drawing.Size(0, 12);
             this.labelFont.TabIndex = 13;
@@ -170,7 +170,7 @@ namespace TextDifferentHunt
             // 
             // backGroundColorPanel
             // 
-            this.backGroundColorPanel.Location = new System.Drawing.Point(44, 369);
+            this.backGroundColorPanel.Location = new System.Drawing.Point(31, 275);
             this.backGroundColorPanel.Name = "backGroundColorPanel";
             this.backGroundColorPanel.Size = new System.Drawing.Size(39, 35);
             this.backGroundColorPanel.TabIndex = 14;
@@ -178,7 +178,7 @@ namespace TextDifferentHunt
             // 
             // textColorPanel
             // 
-            this.textColorPanel.Location = new System.Drawing.Point(161, 369);
+            this.textColorPanel.Location = new System.Drawing.Point(188, 275);
             this.textColorPanel.Name = "textColorPanel";
             this.textColorPanel.Size = new System.Drawing.Size(39, 35);
             this.textColorPanel.TabIndex = 15;
@@ -186,7 +186,7 @@ namespace TextDifferentHunt
             // 
             // buttonCreate
             // 
-            this.buttonCreate.Location = new System.Drawing.Point(407, 399);
+            this.buttonCreate.Location = new System.Drawing.Point(370, 287);
             this.buttonCreate.Name = "buttonCreate";
             this.buttonCreate.Size = new System.Drawing.Size(75, 23);
             this.buttonCreate.TabIndex = 16;
@@ -200,7 +200,7 @@ namespace TextDifferentHunt
             // 
             // buttonChangeFont
             // 
-            this.buttonChangeFont.Location = new System.Drawing.Point(188, 278);
+            this.buttonChangeFont.Location = new System.Drawing.Point(231, 206);
             this.buttonChangeFont.Name = "buttonChangeFont";
             this.buttonChangeFont.Size = new System.Drawing.Size(75, 23);
             this.buttonChangeFont.TabIndex = 17;
@@ -212,7 +212,7 @@ namespace TextDifferentHunt
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(569, 450);
+            this.ClientSize = new System.Drawing.Size(464, 324);
             this.Controls.Add(this.buttonChangeFont);
             this.Controls.Add(this.buttonCreate);
             this.Controls.Add(this.textColorPanel);

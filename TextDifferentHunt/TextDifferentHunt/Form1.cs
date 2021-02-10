@@ -89,7 +89,7 @@ namespace TextDifferentHunt
                         g.DrawString(textString.Text,
                             fontDialog1.Font,
                             textColorBrush, 0, mainPictureBox.Height / 2 - fontDialog1.Font.Size, new StringFormat());
-
+                        mainPictureBox.Font = fontDialog1.Font;
                         mainPictureBox.Image = canvas;
                     }
                 }
@@ -111,14 +111,14 @@ namespace TextDifferentHunt
             DialogResult dr2 = fontDialog1.ShowDialog();
             if (dr2 == System.Windows.Forms.DialogResult.OK)
             {
-                labelFont.Text = "" + fontDialog1.Font.Size + ", " + fontDialog1.Font;
+                labelFont.Text = "" + fontDialog1.Font.Name + ", " + fontDialog1.Font.Size;
             }
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             backGroundColorPanel.BackColor = Color.Gray;
-            textColorPanel.BackColor = Color.Gray;
+            textColorPanel.BackColor = Color.White;
         }
 
         private bool IsNumber()
