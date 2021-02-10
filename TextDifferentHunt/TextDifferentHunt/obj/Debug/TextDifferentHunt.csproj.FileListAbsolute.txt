@@ -1,0 +1,11 @@
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\bin\Debug\TextDifferentHunt.exe.config
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\bin\Debug\TextDifferentHunt.exe
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\bin\Debug\TextDifferentHunt.pdb
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\obj\Debug\TextDifferentHunt.csprojAssemblyReference.cache
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\obj\Debug\TextDifferentHunt.Form1.resources
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\obj\Debug\TextDifferentHunt.Form2.resources
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\obj\Debug\TextDifferentHunt.Properties.Resources.resources
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\obj\Debug\TextDifferentHunt.csproj.GenerateResource.cache
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\obj\Debug\TextDifferentHunt.csproj.CoreCompileInputs.cache
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\obj\Debug\TextDifferentHunt.exe
+C:\Users\ryuorei\Desktop\Git\CSharpTraining\TextDifferentHunt\TextDifferentHunt\obj\Debug\TextDifferentHunt.pdb
